@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DMklXSMVlsQ6xYcE4iBzkqxSRXjXVZmlk4bvIotZMmY=",
+  "Source": "_101SendEmailNotificationDoNetCoreWebAPI",
+  "BasePath": "_content/_101SendEmailNotificationDoNetCoreWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

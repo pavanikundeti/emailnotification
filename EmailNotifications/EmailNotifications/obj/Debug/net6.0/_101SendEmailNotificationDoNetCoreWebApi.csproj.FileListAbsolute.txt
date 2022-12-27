@@ -1,0 +1,152 @@
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\appsettings.json
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebApi.exe
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebApi.deps.json
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebApi.runtimeconfig.json
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebApi.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebApi.pdb
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\MailKit.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\MimeKit.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\ZedGraph.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\de\ZedGraph.resources.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\es\ZedGraph.resources.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\fr\ZedGraph.resources.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\hu\ZedGraph.resources.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\it\ZedGraph.resources.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\ja\ZedGraph.resources.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\pt\ZedGraph.resources.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\ru\ZedGraph.resources.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\sk\ZedGraph.resources.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\sv\ZedGraph.resources.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\tr\ZedGraph.resources.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\zh-cn\ZedGraph.resources.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\bin\Debug\net6.0\zh-tw\ZedGraph.resources.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebApi.csproj.AssemblyReference.cache
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebApi.AssemblyInfoInputs.cache
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebApi.AssemblyInfo.cs
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebApi.csproj.CoreCompileInputs.cache
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\obj\Debug\net6.0\scopedcss\bundle\_101SendEmailNotificationDoNetCoreWebApi.styles.css
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebApi.csproj.CopyComplete
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebApi.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\obj\Debug\net6.0\refint\_101SendEmailNotificationDoNetCoreWebApi.dll
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebApi.pdb
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebApi.genruntimeconfig.cache
+C:\Users\pavani.k\Desktop\MajorFws\EmailNotifications\EmailNotifications\obj\Debug\net6.0\ref\_101SendEmailNotificationDoNetCoreWebApi.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\appsettings.json
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebAPI.exe
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebAPI.deps.json
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebAPI.runtimeconfig.json
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebAPI.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebAPI.pdb
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\MailKit.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\MimeKit.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\ZedGraph.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\de\ZedGraph.resources.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\es\ZedGraph.resources.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\fr\ZedGraph.resources.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\hu\ZedGraph.resources.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\it\ZedGraph.resources.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\ja\ZedGraph.resources.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\pt\ZedGraph.resources.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\ru\ZedGraph.resources.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\sk\ZedGraph.resources.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\sv\ZedGraph.resources.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\tr\ZedGraph.resources.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\zh-cn\ZedGraph.resources.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\zh-tw\ZedGraph.resources.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebAPI.csproj.AssemblyReference.cache
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebAPI.AssemblyInfoInputs.cache
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebAPI.AssemblyInfo.cs
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\scopedcss\bundle\_101SendEmailNotificationDoNetCoreWebAPI.styles.css
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebAPI.csproj.CopyComplete
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebAPI.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\refint\_101SendEmailNotificationDoNetCoreWebAPI.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebAPI.pdb
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\_101SendEmailNotificationDoNetCoreWebAPI.genruntimeconfig.cache
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\ref\_101SendEmailNotificationDoNetCoreWebAPI.dll
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\staticwebassets\msbuild._101SendEmailNotificationDoNetCoreWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\staticwebassets\msbuild.build._101SendEmailNotificationDoNetCoreWebAPI.props
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting._101SendEmailNotificationDoNetCoreWebAPI.props
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive._101SendEmailNotificationDoNetCoreWebAPI.props
+C:\Users\pavani.k\Downloads\EmailNotifications (1)\EmailNotifications\EmailNotifications\obj\Debug\net6.0\staticwebassets.pack.json
